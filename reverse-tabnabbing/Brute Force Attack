@@ -1,0 +1,5 @@
+Brute Force Attack is a trial and error method is used to crack encrypted data such as passwords by using automated tools. 
+To prevent brute force attacks:
+a. Progressive delay in unlocking the account for next attempt after every failed attempt.
+b. Using captcha to prevent automated password submission.
+c. It should be made mandatory to have strong passwords with a combination of letters, numbers and special characters.
